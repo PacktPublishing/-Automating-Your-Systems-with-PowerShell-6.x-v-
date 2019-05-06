@@ -1,0 +1,14 @@
+Variables: 
+ - Use descriptive variable names
+ - Use CamelCase (first letter of each word capitalized)
+
+Modules
+ - Prefix all module nouns with "XYZ" to distinguish between our internal modules and external
+
+Functions
+ - All functions should be named with the standard "Verb-Noun" naming convention
+ - Only approved verbs are acceptable
+ - All functions use comment-based help to define 
+  - SYNOPSIS - a 1 to 2 sentence summary of what the function does
+  - DESCRIPTION - a detailed description of what the function does
+  - EXAMPLE - at least 1 example of the function for each parameter set

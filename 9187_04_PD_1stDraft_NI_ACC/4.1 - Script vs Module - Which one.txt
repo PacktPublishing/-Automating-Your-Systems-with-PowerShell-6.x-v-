@@ -1,0 +1,9 @@
+Use a script:
+ - The script performs a single function or process without parameters
+ - The script will be run as a scheduled task
+ - The script will be run without user input
+
+ Use a module:
+ - Multiple functions or commands to manage infrastructure or process
+ - You expect an administrator to use it interactively, like at the command line
+

@@ -1,0 +1,2 @@
+Get-Process | Select Name, Path -First 5
+

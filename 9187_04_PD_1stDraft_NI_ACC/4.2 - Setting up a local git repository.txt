@@ -1,0 +1,17 @@
+Download GIT from:
+ https://git-scm.com
+
+Keep defaults on installation - it's all ok
+
+From within VSCODE:
+- Select the Source Control icon on left.
+- Click GIT icon next to Source Control header
+- Select folder in the folder chooser dialog
+- Click "Initialize"
+
+Add files to source control:
+- Click "Add all" in the "Changed" header
+- Add a message to the commit "Initial commit"
+- Click "Commit"
+
+To revert or see commit history type "gitk"
